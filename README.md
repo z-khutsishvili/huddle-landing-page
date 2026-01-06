@@ -16,4 +16,4 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Author
 
-- Frontend Mentor - [@z-khutsishvili](https://www.frontendmentor.io/profile/zauri-khutsishvili)
+- Frontend Mentor - [@z-khutsishvili](https://www.frontendmentor.io/profile/z-khutsishvili)
