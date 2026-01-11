@@ -4,7 +4,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-VmA9ts_VKt](https://www.frontendmentor.io/solutions/huddle-landing-page-VmA9ts_VKt)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-m8aqa45ccX](https://www.frontendmentor.io/solutions/huddle-landing-page-m8aqa45ccX)
 - Live Site URL: [https://z-khutsishvili.github.io/huddle-landing-page/](https://z-khutsishvili.github.io/huddle-landing-page/)
 
 ## Built with
